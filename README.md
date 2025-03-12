@@ -1,1 +1,1 @@
-# gamelogs.github.io
+# gamelibs.github.io
